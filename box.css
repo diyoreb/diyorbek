@@ -1,0 +1,45 @@
+body{
+    background: linear-gradient(to right, white, aqua, blue);
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.left{
+    display: inline-block;
+
+}
+.right{
+    display: inline-block;
+    margin-left: 40px;
+
+}
+h5{
+    position: relative;
+}
+li{
+    color: blue;
+    
+}
+a{
+    text-decoration: none;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+    border-color: blue;
+    background-color: blue;
+    color: white;
+    margin-left: 15px;
+}
+.button{
+    padding: 10px;
+    border-radius: 5px;
+    border-color: blue;
+    background-color: blue;
+    color: white;  
+}
